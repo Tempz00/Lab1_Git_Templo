@@ -1,3 +1,4 @@
 print("Lab1: Version Control")
 print("Author: JOVEL LANCE E. TEMPLO")
 print("Student ID: TUPM-25-0828")
+print("Class SectionL BSECE-1B")
