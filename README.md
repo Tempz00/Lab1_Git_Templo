@@ -1,2 +1,2 @@
 # Lab 1 Activity
-This repository belong to Jovel Lance E. Templo
+This repository belongs to Jovel Lance E. Templo
